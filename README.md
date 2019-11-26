@@ -1,4 +1,4 @@
-## Hi
+# Hi
 
 This is a random collection of stuff I built (and most of the time forgot about).
 
