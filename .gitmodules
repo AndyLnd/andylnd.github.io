@@ -1,0 +1,3 @@
+[submodule "jumpnjuice"]
+	path = jumpnjuice
+	url = https://github.com/AndyLnd/jumpnjuice
