@@ -1,5 +1,3 @@
-# Andy Lindemann
-
 This is a random collection of stuff I built (and most of the time forgot about).
 
 - [Asciimg](https://github.com/AndyLnd/asciimg) - [(Live preview)](https://asciimg.netlify.com/)  
