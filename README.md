@@ -12,7 +12,7 @@ This is a random collection of stuff I built (and most of the time forgot about)
   CLI xkcd viewer
 - [PWA Doodle](https://github.com/AndyLnd/pwdraw) - [(Live preview)](https://pwadoodle.netlify.com/)  
   PWA kids drawing app
-- [Color Puzzle](https://github.com/AndyLnd/colorpuzzle) - [(Live preview)](https://colorpuzzle.netlify.com/)  
+- [Color Puzzle](https://github.com/AndyLnd/colorpuzzle) - [(Live preview)](https://andylnd.github.io/colorpuzzle/)  
   Color puzzle game (somewhat PWA)
 - [Slime Volley](https://github.com/AndyLnd/slimevolley) - [(Live preview)](https://slimevolley.netlify.com/)  
   Remake of a Java based browser game for two players
