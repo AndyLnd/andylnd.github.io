@@ -8,7 +8,7 @@ This is a random collection of stuff I built (and most of the time forgot about)
   Graphical Game of Life in Rust
 - [XKCLI](https://github.com/AndyLnd/xkcli)  
   CLI xkcd viewer
-- [PWA Doodle](https://github.com/AndyLnd/pwdraw) - [(Live preview)](https://pwadoodle.netlify.com/)  
+- [PWA Doodle](https://github.com/AndyLnd/pwdraw) - [(Live preview)](https://andylnd.github.io/pwdraw/)  
   PWA kids drawing app
 - [Color Puzzle](https://github.com/AndyLnd/colorpuzzle) - [(Live preview)](https://andylnd.github.io/colorpuzzle/)  
   Color puzzle game (somewhat PWA)
